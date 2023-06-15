@@ -1,0 +1,44 @@
+.TEXT-1 {
+    rotate: 90deg;
+    position: absolute;
+    top: -7%;
+    left: 37%;
+}
+
+.button {
+    position: relative;
+    border: 2px solid #FFF;
+    font-size: 10px;
+    padding: 7px 15px;
+    font-family: Helvetica;
+    color: #FFF;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #ababab;
+}
+
+.alvi {
+    position: absolute;
+    left: 27%;
+    top: 44%;
+}
+
+.demo {
+    position: absolute;
+    font-size: 47px;
+    color: rgb(255 255 255 /0.2);
+    rotate: -90deg;
+    top: 54%;
+    z-index: -1;
+}
+
+.IMG {
+    position: relative; 
+    margin-left: 25%;
+    width: 200px; 
+    height: 400px;
+}
